@@ -1,12 +1,14 @@
 # Assignment-3-Computer-Networks
 
-Submitted By:- Udit Anand
+Submitted By:- Dev
 
-Roll Number:- 2301730091
+Roll Number:- 2301730073
 
 Program:- BTechCSE(AI/ML) section:- B
 
 Course:- Computer Networks Lab
+
+Github link:- [Assignment Link](https://github.com/Dagar214/Assignment-3-Computer-Networks)
 
 # Routing Tables
 
